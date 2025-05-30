@@ -1,0 +1,652 @@
+[
+    {
+        "state":"Alabama",
+        "capital":"Montgomery",
+        "address":{
+            "street":"600 Dexter Ave",
+            "city":"Montgomery",
+            "state_code":"AL",
+            "zip":"36130"
+        },
+        "valid address?":"Address found",
+        "latitude":32.37742,
+        "longitude":-86.3091683
+    },
+    {
+        "state":"Alaska",
+        "capital":"Juneau",
+        "address":{
+            "street":"120 4th St",
+            "city":"Juneau",
+            "state_code":"AK",
+            "zip":"99801"
+        },
+        "valid address?":"Address found",
+        "latitude":58.3019496,
+        "longitude":-134.419734
+    },
+    {
+        "state":"Arizona",
+        "capital":"Phoenix",
+        "address":{
+            "street":"1700 W Washington St",
+            "city":"Phoenix",
+            "state_code":"AZ",
+            "zip":"85007"
+        },
+        "valid address?":"Address found",
+        "latitude":33.4484367,
+        "longitude":-112.074141
+    },
+    {
+        "state":"Arkansas",
+        "capital":"Little Rock",
+        "address":{
+            "street":"500 Woodlane St",
+            "city":"Little Rock",
+            "state_code":"AR",
+            "zip":"72201"
+        },
+        "valid address?":"Address found",
+        "latitude":34.7465071,
+        "longitude":-92.2896267
+    },
+    {
+        "state":"California",
+        "capital":"Sacramento",
+        "address":{
+            "street":"1315 10th St",
+            "city":"Sacramento",
+            "state_code":"CA",
+            "zip":"95814"
+        },
+        "valid address?":"Address found",
+        "latitude":38.5810606,
+        "longitude":-121.493895
+    },
+    {
+        "state":"Colorado",
+        "capital":"Denver",
+        "address":{
+            "street":"200 E Colfax Ave",
+            "city":"Denver",
+            "state_code":"CO",
+            "zip":"80203"
+        },
+        "valid address?":"Address found",
+        "latitude":39.7392364,
+        "longitude":-104.984862
+    },
+    {
+        "state":"Connecticut",
+        "capital":"Hartford",
+        "address":{
+            "street":"210 Capitol Ave",
+            "city":"Hartford",
+            "state_code":"CT",
+            "zip":"06106"
+        },
+        "valid address?":"Address found",
+        "latitude":41.764582,
+        "longitude":-72.6908547
+    },
+    {
+        "state":"Delaware",
+        "capital":"Dover",
+        "address":{
+            "street":"411 Legislative Ave",
+            "city":"Dover",
+            "state_code":"DE",
+            "zip":"19901"
+        },
+        "valid address?":"Address found",
+        "latitude":39.158168,
+        "longitude":-75.5243682
+    },
+    {
+        "state":"Florida",
+        "capital":"Tallahassee",
+        "address":{
+            "street":"400 S Monroe St",
+            "city":"Tallahassee",
+            "state_code":"FL",
+            "zip":"32399"
+        },
+        "valid address?":"Address found",
+        "latitude":30.4380832,
+        "longitude":-84.2809332
+    },
+    {
+        "state":"Georgia",
+        "capital":"Atlanta",
+        "address":{
+            "street":"206 Washington St SW",
+            "city":"Atlanta",
+            "state_code":"GA",
+            "zip":"30334"
+        },
+        "valid address?":"Address found",
+        "latitude":33.7544657,
+        "longitude":-84.3898151
+    },
+    {
+        "state":"Hawaii",
+        "capital":"Honolulu",
+        "address":{
+            "street":"415 S Beretania St",
+            "city":"Honolulu",
+            "state_code":"HI",
+            "zip":"96813"
+        },
+        "valid address?":"Address found",
+        "latitude":21.304547,
+        "longitude":-157.855676
+    },
+    {
+        "state":"Idaho",
+        "capital":"Boise",
+        "address":{
+            "street":"700 W Jefferson St",
+            "city":"Boise",
+            "state_code":"ID",
+            "zip":"83702"
+        },
+        "valid address?":"Address found",
+        "latitude":43.6166163,
+        "longitude":-116.200886
+    },
+    {
+        "state":"Illinois",
+        "capital":"Springfield",
+        "address":{
+            "street":"401 S 2nd St",
+            "city":"Springfield",
+            "state_code":"IL",
+            "zip":"62701"
+        },
+        "valid address?":"Error processing address",
+        "latitude":39.7990175,
+        "longitude":-89.6439575
+    },
+    {
+        "state":"Indiana",
+        "capital":"Indianapolis",
+        "address":{
+            "street":"200 W Washington St",
+            "city":"Indianapolis",
+            "state_code":"IN",
+            "zip":"46204"
+        },
+        "valid address?":"Address found",
+        "latitude":39.7683331,
+        "longitude":-86.1583502
+    },
+    {
+        "state":"Iowa",
+        "capital":"Des Moines",
+        "address":{
+            "street":"1007 E Grand Ave",
+            "city":"Des Moines",
+            "state_code":"IA",
+            "zip":"50319"
+        },
+        "valid address?":"Address found",
+        "latitude":41.5868654,
+        "longitude":-93.6249494
+    },
+    {
+        "state":"Kansas",
+        "capital":"Topeka",
+        "address":{
+            "street":"300 SW 10th Ave",
+            "city":"Topeka",
+            "state_code":"KS",
+            "zip":"66612"
+        },
+        "valid address?":"Address found",
+        "latitude":39.049011,
+        "longitude":-95.677556
+    },
+    {
+        "state":"Kentucky",
+        "capital":"Frankfort",
+        "address":{
+            "street":"700 Capitol Ave",
+            "city":"Frankfort",
+            "state_code":"KY",
+            "zip":"40601"
+        },
+        "valid address?":"Address found",
+        "latitude":38.2009055,
+        "longitude":-84.8732836
+    },
+    {
+        "state":"Louisiana",
+        "capital":"Baton Rouge",
+        "address":{
+            "street":"900 N 3rd St",
+            "city":"Baton Rouge",
+            "state_code":"LA",
+            "zip":"70802"
+        },
+        "valid address?":"Address found",
+        "latitude":30.4494155,
+        "longitude":-91.1869659
+    },
+    {
+        "state":"Maine",
+        "capital":"Augusta",
+        "address":{
+            "street":"210 State St",
+            "city":"Augusta",
+            "state_code":"ME",
+            "zip":"04333"
+        },
+        "valid address?":"Address found",
+        "latitude":44.3169922,
+        "longitude":-69.7734278
+    },
+    {
+        "state":"Maryland",
+        "capital":"Annapolis",
+        "address":{
+            "street":"100 State Circle",
+            "city":"Annapolis",
+            "state_code":"MD",
+            "zip":"21401"
+        },
+        "valid address?":"Address found",
+        "latitude":38.9786401,
+        "longitude":-76.492786
+    },
+    {
+        "state":"Massachusetts",
+        "capital":"Boston",
+        "address":{
+            "street":"24 Beacon St",
+            "city":"Boston",
+            "state_code":"MA",
+            "zip":"02133"
+        },
+        "valid address?":"Address found",
+        "latitude":42.3554334,
+        "longitude":-71.060511
+    },
+    {
+        "state":"Michigan",
+        "capital":"Lansing",
+        "address":{
+            "street":"100 N Capitol Ave",
+            "city":"Lansing",
+            "state_code":"MI",
+            "zip":"48933"
+        },
+        "valid address?":"Address found",
+        "latitude":42.7338254,
+        "longitude":-84.5546295
+    },
+    {
+        "state":"Minnesota",
+        "capital":"Saint Paul",
+        "address":{
+            "street":"75 Rev Dr Martin Luther King Jr Blvd",
+            "city":"Saint Paul",
+            "state_code":"MN",
+            "zip":"55155"
+        },
+        "valid address?":"Error processing address",
+        "latitude":44.9497487,
+        "longitude":-93.0931028
+    },
+    {
+        "state":"Mississippi",
+        "capital":"Jackson",
+        "address":{
+            "street":"400 High St",
+            "city":"Jackson",
+            "state_code":"MS",
+            "zip":"39201"
+        },
+        "valid address?":"Address found",
+        "latitude":32.2998686,
+        "longitude":-90.1830408
+    },
+    {
+        "state":"Missouri",
+        "capital":"Jefferson City",
+        "address":{
+            "street":"201 W Capitol Ave",
+            "city":"Jefferson City",
+            "state_code":"MO",
+            "zip":"65101"
+        },
+        "valid address?":"Address found",
+        "latitude":38.577359,
+        "longitude":-92.1724265
+    },
+    {
+        "state":"Montana",
+        "capital":"Helena",
+        "address":{
+            "street":"1301 E 6th Ave",
+            "city":"Helena",
+            "state_code":"MT",
+            "zip":"59601"
+        },
+        "valid address?":"Address found",
+        "latitude":46.5927425,
+        "longitude":-112.036277
+    },
+    {
+        "state":"Nebraska",
+        "capital":"Lincoln",
+        "address":{
+            "street":"1445 K St",
+            "city":"Lincoln",
+            "state_code":"NE",
+            "zip":"68508"
+        },
+        "valid address?":"Address found",
+        "latitude":40.8088861,
+        "longitude":-96.7077751
+    },
+    {
+        "state":"Nevada",
+        "capital":"Carson City",
+        "address":{
+            "street":"101 N Carson St",
+            "city":"Carson City",
+            "state_code":"NV",
+            "zip":"89701"
+        },
+        "valid address?":"Address found",
+        "latitude":39.1663259,
+        "longitude":-119.7670374
+    },
+    {
+        "state":"New Hampshire",
+        "capital":"Concord",
+        "address":{
+            "street":"107 N Main St",
+            "city":"Concord",
+            "state_code":"NH",
+            "zip":"03301"
+        },
+        "valid address?":"Address found",
+        "latitude":43.207178,
+        "longitude":-71.537476
+    },
+    {
+        "state":"New Jersey",
+        "capital":"Trenton",
+        "address":{
+            "street":"125 W State St",
+            "city":"Trenton",
+            "state_code":"NJ",
+            "zip":"08608"
+        },
+        "valid address?":"Address found",
+        "latitude":40.2203074,
+        "longitude":-74.7659
+    },
+    {
+        "state":"New Mexico",
+        "capital":"Santa Fe",
+        "address":{
+            "street":"490 Old Santa Fe Trail",
+            "city":"Santa Fe",
+            "state_code":"NM",
+            "zip":"87501"
+        },
+        "valid address?":"Address found",
+        "latitude":35.6876096,
+        "longitude":-105.938456
+    },
+    {
+        "state":"New York",
+        "capital":"Albany",
+        "address":{
+            "street":"State St & Washington Ave",
+            "city":"Albany",
+            "state_code":"NY",
+            "zip":"12224"
+        },
+        "valid address?":"Address not found",
+        "latitude":42.6511674,
+        "longitude":-73.754968
+    },
+    {
+        "state":"North Carolina",
+        "capital":"Raleigh",
+        "address":{
+            "street":"16 W Jones St",
+            "city":"Raleigh",
+            "state_code":"NC",
+            "zip":"27601"
+        },
+        "valid address?":"Address found",
+        "latitude":35.7803977,
+        "longitude":-78.6390989
+    },
+    {
+        "state":"North Dakota",
+        "capital":"Bismarck",
+        "address":{
+            "street":"600 E Boulevard Ave",
+            "city":"Bismarck",
+            "state_code":"ND",
+            "zip":"58505"
+        },
+        "valid address?":"Address found",
+        "latitude":46.808327,
+        "longitude":-100.783739
+    },
+    {
+        "state":"Ohio",
+        "capital":"Columbus",
+        "address":{
+            "street":"1 Capitol Square",
+            "city":"Columbus",
+            "state_code":"OH",
+            "zip":"43215"
+        },
+        "valid address?":"Address not found",
+        "latitude":39.9622601,
+        "longitude":-83.0007065
+    },
+    {
+        "state":"Oklahoma",
+        "capital":"Oklahoma City",
+        "address":{
+            "street":"2300 N Lincoln Blvd",
+            "city":"Oklahoma City",
+            "state_code":"OK",
+            "zip":"73105"
+        },
+        "valid address?":"Address found",
+        "latitude":35.4729886,
+        "longitude":-97.5170536
+    },
+    {
+        "state":"Oregon",
+        "capital":"Salem",
+        "address":{
+            "street":"900 Court St NE",
+            "city":"Salem",
+            "state_code":"OR",
+            "zip":"97301"
+        },
+        "valid address?":"Address found",
+        "latitude":44.9391565,
+        "longitude":-123.033121
+    },
+    {
+        "state":"Pennsylvania",
+        "capital":"Harrisburg",
+        "address":{
+            "street":"501 N 3rd St",
+            "city":"Harrisburg",
+            "state_code":"PA",
+            "zip":"17120"
+        },
+        "valid address?":"Address found",
+        "latitude":40.2663107,
+        "longitude":-76.8861122
+    },
+    {
+        "state":"Rhode Island",
+        "capital":"Providence",
+        "address":{
+            "street":"82 Smith St",
+            "city":"Providence",
+            "state_code":"RI",
+            "zip":"02903"
+        },
+        "valid address?":"Address found",
+        "latitude":41.8239891,
+        "longitude":-71.4128343
+    },
+    {
+        "state":"South Carolina",
+        "capital":"Columbia",
+        "address":{
+            "street":"1100 Gervais St",
+            "city":"Columbia",
+            "state_code":"SC",
+            "zip":"29201"
+        },
+        "valid address?":"Address found",
+        "latitude":34.000754,
+        "longitude":-81.0352313
+    },
+    {
+        "state":"South Dakota",
+        "capital":"Pierre",
+        "address":{
+            "street":"500 E Capitol Ave",
+            "city":"Pierre",
+            "state_code":"SD",
+            "zip":"57501"
+        },
+        "valid address?":"Address found",
+        "latitude":44.3683644,
+        "longitude":-100.351136
+    },
+    {
+        "state":"Tennessee",
+        "capital":"Nashville",
+        "address":{
+            "street":"600 Dr. M.L.K. Jr. Blvd",
+            "city":"Nashville",
+            "state_code":"TN",
+            "zip":"37243"
+        },
+        "valid address?":"Error processing address",
+        "latitude":36.1622767,
+        "longitude":-86.7742984
+    },
+    {
+        "state":"Texas",
+        "capital":"Austin",
+        "address":{
+            "street":"1100 Congress Ave",
+            "city":"Austin",
+            "state_code":"TX",
+            "zip":"78701"
+        },
+        "valid address?":"Address found",
+        "latitude":30.2711286,
+        "longitude":-97.7436995
+    },
+    {
+        "state":"Utah",
+        "capital":"Salt Lake City",
+        "address":{
+            "street":"350 N State St",
+            "city":"Salt Lake City",
+            "state_code":"UT",
+            "zip":"84114"
+        },
+        "valid address?":"Error processing address",
+        "latitude":40.7596198,
+        "longitude":-111.886797
+    },
+    {
+        "state":"Vermont",
+        "capital":"Montpelier",
+        "address":{
+            "street":"115 State St",
+            "city":"Montpelier",
+            "state_code":"VT",
+            "zip":"05633"
+        },
+        "valid address?":"Address found",
+        "latitude":44.2602244,
+        "longitude":-72.5750364
+    },
+    {
+        "state":"Virginia",
+        "capital":"Richmond",
+        "address":{
+            "street":"1000 Bank St",
+            "city":"Richmond",
+            "state_code":"VA",
+            "zip":"23219"
+        },
+        "valid address?":"Address found",
+        "latitude":37.5385087,
+        "longitude":-77.43428
+    },
+    {
+        "state":"Washington",
+        "capital":"Olympia",
+        "address":{
+            "street":"416 Sid Snyder Ave SW",
+            "city":"Olympia",
+            "state_code":"WA",
+            "zip":"98504"
+        },
+        "valid address?":"Address found",
+        "latitude":47.0451022,
+        "longitude":-122.8950075
+    },
+    {
+        "state":"West Virginia",
+        "capital":"Charleston",
+        "address":{
+            "street":"1900 Kanawha Blvd E",
+            "city":"Charleston",
+            "state_code":"WV",
+            "zip":"25305"
+        },
+        "valid address?":"Address found",
+        "latitude":38.3505995,
+        "longitude":-81.6332812
+    },
+    {
+        "state":"Wisconsin",
+        "capital":"Madison",
+        "address":{
+            "street":"2 E Main St",
+            "city":"Madison",
+            "state_code":"WI",
+            "zip":"53703"
+        },
+        "valid address?":"Address found",
+        "latitude":43.074761,
+        "longitude":-89.3837613
+    },
+    {
+        "state":"Wyoming",
+        "capital":"Cheyenne",
+        "address":{
+            "street":"200 W 24th St",
+            "city":"Cheyenne",
+            "state_code":"WY",
+            "zip":"82002"
+        },
+        "valid address?":"Address found",
+        "latitude":41.139981,
+        "longitude":-104.820246
+    }
+]
