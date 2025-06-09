@@ -1,4 +1,4 @@
-### Project 2: State Capitals Project
+# Project 2: State Capitals Project
 
 Step 1: Create JSON file with all state capitals and their addresses.
 
