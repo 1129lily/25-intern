@@ -1,4 +1,4 @@
-# Project 1: Traveling Salesman Problem (TSP) for U.S. State Capitals
+# Traveling Salesman Problem (TSP) for U.S. State Capitals
 
 ## Project Description
 
